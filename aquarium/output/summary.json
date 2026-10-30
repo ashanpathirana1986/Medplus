@@ -1,0 +1,162 @@
+{
+ "items": [
+  {
+   "key": "01_clownfish",
+   "title": "Clownfish",
+   "parts": 24,
+   "colors": {
+    "black": 2,
+    "orange": 14,
+    "white": 8
+   }
+  },
+  {
+   "key": "02_tang",
+   "title": "Cobalt Tang",
+   "parts": 20,
+   "colors": {
+    "black": 4,
+    "blue": 10,
+    "orange": 4,
+    "white": 2
+   }
+  },
+  {
+   "key": "03_angelfish",
+   "title": "Zebra Angelfish",
+   "parts": 26,
+   "colors": {
+    "black": 10,
+    "white": 10,
+    "red": 6
+   }
+  },
+  {
+   "key": "04_betta",
+   "title": "Halfmoon Betta",
+   "parts": 16,
+   "colors": {
+    "black": 2,
+    "red": 8,
+    "blue": 4,
+    "white": 2
+   }
+  },
+  {
+   "key": "05_puffer",
+   "title": "Spiky Pufferfish",
+   "parts": 16,
+   "colors": {
+    "black": 2,
+    "blue": 8,
+    "white": 4,
+    "orange": 2
+   }
+  },
+  {
+   "key": "06_lighthouse",
+   "title": "Striped Lighthouse",
+   "parts": 9,
+   "colors": {
+    "red": 4,
+    "white": 2,
+    "black": 1,
+    "orange": 1,
+    "gray": 1
+   }
+  },
+  {
+   "key": "07_torii",
+   "title": "Sunken Torii Gate",
+   "parts": 8,
+   "colors": {
+    "red": 3,
+    "black": 3,
+    "white": 1,
+    "gray": 1
+   }
+  },
+  {
+   "key": "08_coral",
+   "title": "Crossed Staghorn Coral",
+   "parts": 3,
+   "colors": {
+    "red": 1,
+    "orange": 1,
+    "gray": 1
+   }
+  },
+  {
+   "key": "09_starfish",
+   "title": "Blue Starfish",
+   "parts": 21,
+   "colors": {
+    "blue": 1,
+    "orange": 15,
+    "white": 5
+   }
+  },
+  {
+   "key": "10_rock_stands",
+   "title": "Reef Rock Fish Stands",
+   "parts": 7,
+   "colors": {
+    "gray": 2,
+    "black": 5
+   }
+  },
+  {
+   "key": "00_fit_test",
+   "title": "Fit test coupon (print first)",
+   "parts": 2,
+   "colors": {
+    "black": 1,
+    "white": 1
+   }
+  }
+ ],
+ "plates": [
+  {
+   "color": "black",
+   "plate": 1,
+   "parts": 19,
+   "grams": 113
+  },
+  {
+   "color": "black",
+   "plate": 2,
+   "parts": 10,
+   "grams": 26
+  },
+  {
+   "color": "orange",
+   "plate": 1,
+   "parts": 37,
+   "grams": 29
+  },
+  {
+   "color": "white",
+   "plate": 1,
+   "parts": 34,
+   "grams": 31
+  },
+  {
+   "color": "blue",
+   "plate": 1,
+   "parts": 23,
+   "grams": 31
+  },
+  {
+   "color": "red",
+   "plate": 1,
+   "parts": 22,
+   "grams": 66
+  },
+  {
+   "color": "gray",
+   "plate": 1,
+   "parts": 5,
+   "grams": 220
+  }
+ ]
+}
